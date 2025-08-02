@@ -1,4 +1,4 @@
-# Canlı Kassa Dashboardu
+# Canlı Kassa Dashboard
 
 Bu Power BI dashboardu maliyyə göstəricilərini real vaxtda izləmək və təhlil etmək üçün hazırlanmış əhatəli və intuitiv bir interfeys təqdim edir.
 
