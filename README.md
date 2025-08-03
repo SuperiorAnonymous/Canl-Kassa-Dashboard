@@ -1,28 +1,32 @@
-# Canlı Kassa Dashboard
+💵 Live Cash Dashboard
+This Power BI dashboard provides a comprehensive and intuitive interface for real-time monitoring and analysis of financial indicators across branches or individuals.
 
-Bu Power BI dashboardu maliyyə göstəricilərini real vaxtda izləmək və təhlil etmək üçün hazırlanmış əhatəli və intuitiv bir interfeys təqdim edir.
+📌 Key Features
+🔢 Overview KPIs
+The top section highlights essential financial metrics including:
+Total Amount, Total Expense, Remaining Balance, and Total Reported Amount — offering a quick snapshot of the overall financial state.
 
-## 📌 Əsas Xüsusiyyətlər:
+📊 Breakdown by Status
+Visual charts present the Total Amount and Remaining Balance based on transaction statuses such as Approved, Pending, and Rejected.
 
-### 🔢 Ümumi Göstəricilər
-Üst sırada **Ümumi Məbləğ**, **Ümumi Xərc**, **Qalıq**, və **Ümumi Hesabat Məbləği** yer alır. Bu göstəricilər maliyyə vəziyyətinə ümumi baxış imkanı yaradır.
+📆 Monthly Trends
+A dual bar chart displays Total Amount and Total Expense by month, enabling users to track seasonal or time-based trends.
 
-### 📊 Statusa görə Dağılım
-Fərqli statuslara görə (`Təsdiq edildi`, `Gözləmədə`, `Rədd edildi`) **Ümumi Məbləğ** və **Qalıq** dəyərləri diaqramla vizuallaşdırılıb.
+👤 Individual Participation
+Right-hand visuals show each person’s Remaining Balance and Reported Amount, helping identify individual contribution and financial responsibility.
 
-### 📆 Aylıq Trendlər
-İkili sütun diaqramı vasitəsilə **Ümumi Məbləğ** və **Ümumi Xərc** aylar üzrə göstərilərək, zamanla dəyişikliklər izlənilir.
+🧰 Dynamic Filtering
+Slicers for Cashbox_name, Status_name, and Month allow users to customize views and perform deep-dive analysis tailored to specific needs.
 
-### 👤 Fərdi İştiraklar
-İstifadəçilərə görə **Qalıq** və **Ümumi Hesabat Məbləği** göstərilir. Bu, fərdi performans və iştirak dərəcələrini təhlil etmək üçün istifadə olunur.
+💡 Highlights
+Built with Power BI Desktop
 
-### 🧰 Fərdiləşdirilmiş Filtrlər
-`Cashbox_name`, `Status_name`, və `Ay` filtrləri istifadəçilərə dashboardu öz ehtiyaclarına uyğunlaşdırmağa imkan verir.
+Uses DAX measures and Power Query
 
----
+Incorporates custom visuals and interactive slicers
 
-💡 Bu layihə Power BI-də **slicers**, **custom visuals** və **interaktiv ölçülərlə** təchiz olunub. Real vaxt təhlili və idarəetmə qərarları üçün əlverişlidir.
+Optimized for real-time financial monitoring and decision-making
 
-📁 Fayl: `Canli_Kassa_Dashboard.pbix`
-<img width="1278" height="719" alt="image" src="https://github.com/user-attachments/assets/a4db6b32-c788-4ea6-8392-c99c7068e147" />
-
+📁 File
+Canli_Kassa_Dashboard.pbix
+<img width="1278" height="719" alt="image" src="https://github.com/user-attachments/assets/e7831de6-86dc-4457-9489-97aada27b808" />
