@@ -24,3 +24,5 @@ Fərqli statuslara görə (`Təsdiq edildi`, `Gözləmədə`, `Rədd edildi`) **
 💡 Bu layihə Power BI-də **slicers**, **custom visuals** və **interaktiv ölçülərlə** təchiz olunub. Real vaxt təhlili və idarəetmə qərarları üçün əlverişlidir.
 
 📁 Fayl: `Canli_Kassa_Dashboard.pbix`
+<img width="1278" height="719" alt="image" src="https://github.com/user-attachments/assets/a4db6b32-c788-4ea6-8392-c99c7068e147" />
+
